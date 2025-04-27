@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 params = {
-    "api_key": "3baa3dea8fa1da4baffd4c61e028c7509a51bf1a5d67bcf4612513ce913bdb30",   # API key from environment variable
+    "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",   # API key from environment variable
     "engine": "google_maps_reviews",                                                 # serpapi search engine
     "hl": "id",                                                                      # language of the search
     "data_id": "0x2e69eb395fa7b3b9:0x3e935c615cc3aec4"                               # place id from Google Maps Place URL
